@@ -1,0 +1,10 @@
+/Users/eugene/dev/dotNet/ServiceBusReader/bin/Debug/netcoreapp2.2/ServiceBusReader.deps.json
+/Users/eugene/dev/dotNet/ServiceBusReader/bin/Debug/netcoreapp2.2/ServiceBusReader.runtimeconfig.json
+/Users/eugene/dev/dotNet/ServiceBusReader/bin/Debug/netcoreapp2.2/ServiceBusReader.runtimeconfig.dev.json
+/Users/eugene/dev/dotNet/ServiceBusReader/bin/Debug/netcoreapp2.2/ServiceBusReader.dll
+/Users/eugene/dev/dotNet/ServiceBusReader/bin/Debug/netcoreapp2.2/ServiceBusReader.pdb
+/Users/eugene/dev/dotNet/ServiceBusReader/obj/Debug/netcoreapp2.2/ServiceBusReader.csprojAssemblyReference.cache
+/Users/eugene/dev/dotNet/ServiceBusReader/obj/Debug/netcoreapp2.2/ServiceBusReader.AssemblyInfoInputs.cache
+/Users/eugene/dev/dotNet/ServiceBusReader/obj/Debug/netcoreapp2.2/ServiceBusReader.AssemblyInfo.cs
+/Users/eugene/dev/dotNet/ServiceBusReader/obj/Debug/netcoreapp2.2/ServiceBusReader.dll
+/Users/eugene/dev/dotNet/ServiceBusReader/obj/Debug/netcoreapp2.2/ServiceBusReader.pdb

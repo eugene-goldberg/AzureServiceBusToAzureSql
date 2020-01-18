@@ -70,7 +70,7 @@ namespace ServiceBusReader
              cmd.Parameters.AddWithValue("@Message", Encoding.UTF8.GetString(message.Body));
                     
              cmd.ExecuteNonQuery();
-             Console.WriteLine("Records Inserted Successfully");
+             Console.WriteLine("Records Inserted Successfully...");
             
             // Complete the message so that it is not received again.
             // This can be done only if the queue Client is created in ReceiveMode.PeekLock mode (which is the default).
